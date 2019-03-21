@@ -1,13 +1,15 @@
-# Web API Deployment Challenge
+# Web API IV Challenge
 
-Guided project for **Web API IV** module.
-
-In this project we will learn how to deploy a Web API to `heroku`.
-
-## Prerequisites
-
-- Sign up for a [heroku](https://www.heroku.com/) free account.
+In this challenge, you will **deploy** an API of your choosing to `heroku`.
 
 ## Instructions
 
-Please fork this repository and follow along **using your fork** as the instructor deploys the API to `heroku`.
+You are allowed, and **encouraged**, to collaborate with other peers. Please follow the twenty-minute rule, before seeking support from your PM and Instructor.
+
+## Minimum Viable Product
+
+Pick any API, could be one of your past projects, and deploy it to `heroku`. Once deployed, send the URL to the PM for your group.
+
+## Stretch Goal
+
+- add support for environment variables using `.env` files. You can use the [dotenv](https://www.npmjs.com/package/dotenv) npm module.
